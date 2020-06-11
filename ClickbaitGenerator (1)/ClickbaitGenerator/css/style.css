@@ -1,0 +1,14 @@
+.column-box {
+    background-color: #bbb;
+    border-radius: 15px;
+    height: 90%;
+}
+
+.warn {
+    color: #f00;
+    background-color: #fbb;
+}
+
+.bld {
+    font-weight: bold;
+}
